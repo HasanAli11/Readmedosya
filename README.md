@@ -3,7 +3,7 @@
  Merhaba size yepyeni platform oyunumu tanıtmak istiyorum.Bu oyun, klasik platform oyunlarını sevenler için basit bir koşu oyunudur.Basit ama eğlenceli bir oyun arıyorsanız oyuna bakmalısnız
  ### Oyun Özellikleri
  Oyun basitçe W, A, S ve D tuşları ile oynanır. Amaç, engellere takılmadan oyun sonuna varmaktır. Eğer 3 canınızı kullanırsanız, oyun en başa dönecek ve tekrar bölümü bitirmeniz gerekecek. Aradaki elmasları toplayarak puan kazanabilir ve oyunun zevkine varabilirsiniz.
- ### Onedrive linki (kodlar)
+ ### Drive linki (kodlar)
 https://drive.google.com/drive/u/1/folders/1leI0sg_U-K-PgBA2yMNQFZw1a0LJCye1
  ### Oyun Videosunun Linki
 https://youtu.be/5UsFZaISfqA
