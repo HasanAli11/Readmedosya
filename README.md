@@ -4,7 +4,7 @@
  ### Oyun Özellikleri
  Oyun basitçe W, A, S ve D tuşları ile oynanır. Amaç, engellere takılmadan oyun sonuna varmaktır. Eğer 3 canınızı kullanırsanız, oyun en başa dönecek ve tekrar bölümü bitirmeniz gerekecek. Aradaki elmasları toplayarak puan kazanabilir ve oyunun zevkine varabilirsiniz.
  ### Onedrive linki (kodlar)
- https://uludagedutr-my.sharepoint.com/:f:/r/personal/132130050_ogr_uludag_edu_tr/Documents/Oyun%20Programlama%20Odevi/odev2?csf=1&web=1&e=Q10lHM
+https://drive.google.com/drive/u/1/folders/1leI0sg_U-K-PgBA2yMNQFZw1a0LJCye1
  ### Oyun Videosunun Linki
 https://youtu.be/5UsFZaISfqA
 ### BTK Akademi Sertifikası
